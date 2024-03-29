@@ -1,6 +1,27 @@
 ## CSV Upload
 
-CSVupload is a Node.js web application that allows users to upload CSV files, display a list of uploaded files, and view the data in a table on the front end. The application also includes a search box that can search through the data and display only the matching rows.
+CSVupload is a Node.js web application that allows users to upload CSV files, display a list of uploaded files, and view the data in a table on the front end. The application also includes a search box that can search through the data and display only the matching rows.  
+
+Used the following for building the project:
+
+ MULTER for uplading the files.  
+ 
+ CSV parser for parsing the CSV Files.  
+ 
+ MVC structure for the project in order to make it scalable as well.  
+ 
+ MongoDB for the database.  
+ 
+ Express EJS Layouts  
+ 
+ Mongoose  
+ 
+ Fs  
+ 
+ Express  
+
+
+ 
 
 ## Installation
 To run the application, you will need to have Node.js installed on your system.
