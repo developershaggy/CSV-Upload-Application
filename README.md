@@ -8,7 +8,7 @@ Used the following for building the project:
  
  CSV parser for parsing the CSV Files.  
  
- MVC structure for the project in order to make it scalable as well.  
+ MVC structure (to make it scalable as well).  
  
  MongoDB for the database.  
  
